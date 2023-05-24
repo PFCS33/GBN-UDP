@@ -1,0 +1,15 @@
+{
+  "UPDPort": 41525,
+  "TargetPort": 41524,
+  "DataSize": 3072,
+  "ReceiveBufferSize": 3400,
+  "ErrorRate": 5,
+  "LostRate": 5,
+  "SWSize": 7,
+  "InitSeqNo": 0,
+  "Timeout": 1000,
+  "listenTimeOut": 10,
+  "QueueEmptyTime": 10,
+  "InputFileName": "input_file",
+  "HostName": "host2"
+}

@@ -1,0 +1,15 @@
+total_time:112.61349701881409s
+communicate_times:5273
+TO_times:1542
+NoErr_times:1326
+
+total_time:466.95368909835815s
+communicate_times:14817
+TO_times:6600
+NoErr_times:5625
+
+total_time:1364.0790243148804s
+communicate_times:37119
+TO_times:23858
+NoErr_times:10448
+
